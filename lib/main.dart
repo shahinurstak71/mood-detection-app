@@ -19,21 +19,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: TestHome(),
+      home: HomePage(),
     );
   }
 }
 
-class TestHome extends StatefulWidget {
-  TestHome({Key? key}) : super(key: key);
 
-  @override
-  State<TestHome> createState() => _TestHomeState();
-}
 
-class _TestHomeState extends State<TestHome> {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold();
-  }
-}

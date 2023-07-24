@@ -1,7 +1,7 @@
-0 happy
-1 angry
-2 disgust
-3 fear
-4 neutral
-5 sad
-6 surprise
+😊 happy
+😠 angry
+🤮 disgust
+😥 fear
+😐 neutral
+🥺 sad
+😲 surprise
